@@ -1,8 +1,13 @@
 <h2>Olá, mundo!</h2>
 
-<p>Eu sou João Maurício!</p>
+Eu sou João Maurício! Faço parte do projeto de pesquisa chamado JACOMP, que funciona no Instituto de Educação, Ciência e Tecnologia da Bahia - Campus Jacobina, responsável por estudos sobre computação ubíqua, pervasiva, como também computação móvel e aprendizado de máquina.
 
-Hello, my name is João Maurício! I am part of the JACOMP research project at the Federal Institute of Education, Science and Technology of Bahia, responsible for studying solutions within ubiquitous, pervasive and mobile computing in Jacobina - Bahia - Brazil.
+Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas áreas de desenvolvimento, discutir sobre tecnologias e abertura de oportunidades.
+
+
+<h2>Hello World!</h2>
+
+Hi, my name is João Maurício! I am part of the JACOMP research project at the Federal Institute of Education, Science and Technology of Bahia, responsible for studying solutions within ubiquitous, pervasive, machine learning, mobile computing in Jacobina - Bahia - Brazil.
 
 Reach out to talk about job opportunities, career advice, web development, mobile development or anything from technology / software.
 
