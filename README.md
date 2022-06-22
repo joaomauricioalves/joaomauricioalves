@@ -5,7 +5,7 @@ Eu sou João Maurício! Faço parte do projeto de pesquisa chamado JACOMP, que f
 <p align="center">
   <img style="background: #FFF" align="center" alt="JACOMP" height="auto" width="120px" src="https://mauricioalves.com/assets/images/sys/jacomp_logo.png" >
 </p>
-
+<br>
 Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas áreas de desenvolvimento, discutir sobre tecnologias e abertura de oportunidades.
 
 
@@ -45,13 +45,23 @@ Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas �
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
  
+</p> <br>
+
+<h3 align="left">Ferramenta para Teste</h3><br>
+<p align="center">   
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Sistema Operacional</h3><br>
+<p align="center">   
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
 
 <h3 align="left">Outras</h3><br>
 <p align="center">   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- 
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
 </p>
 
 
