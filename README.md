@@ -4,6 +4,7 @@ Eu sou João Maurício! Faço parte do projeto de pesquisa chamado JACOMP, que f
 
 Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas áreas de desenvolvimento, discutir sobre tecnologias e abertura de oportunidades.
 
+<br>
 
 <h2>Hello World!</h2>
 
