@@ -1,8 +1,12 @@
 <h2>Olá, mundo!</h2>
 
 Eu sou João Maurício! Faço parte do projeto de pesquisa chamado JACOMP, que funciona no Instituto de Educação, Ciência e Tecnologia da Bahia - Campus Jacobina, responsável por estudos sobre computação ubíqua, pervasiva, como também computação móvel e aprendizado de máquina.
-
-<p align="center" style="background: #000">
+```css
+   .cor{
+      background-color: #000;
+   }
+```
+<p align="center" class="cor">
   <img align="center" alt="JACOMP" height="auto" width="120px" src="https://mauricioalves.com/assets/images/sys/jacomp_logo.png" >
 </p>
 
