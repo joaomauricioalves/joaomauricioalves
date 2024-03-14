@@ -1,28 +1,15 @@
 <h2>Olá, mundo!</h2>
 
-Eu sou João Maurício! Faço parte do projeto de pesquisa chamado JACOMP, que funciona no Instituto de Educação, Ciência e Tecnologia da Bahia - Campus Jacobina, responsável por estudos sobre computação ubíqua, pervasiva, como também computação móvel e aprendizado de máquina.
+Eu sou João Maurício! Aqui fica o registro das coisas que já desenvolvi ;)
 
-<p align="center">
-  <img style="background: #FFF" align="center" alt="JACOMP" height="auto" width="120px" src="https://mauricioalves.com/assets/images/sys/jacomp_logo.png" >
-</p>
 <br>
 Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas áreas de desenvolvimento, discutir sobre tecnologias e abertura de oportunidades.
 
 
-
-<h3 align="left">Mundo Mobile:</h3><br>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-</p>
-
 <h3 align="left">Python e seu mundo:</h3><br>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>    
 </p>
 
 <h3 align="left">Mundo Web:</h3><br>
@@ -34,8 +21,7 @@ Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas �
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>    
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
 </p>
 
 <h3 align="left">Banco de Dados:</h3><br>
@@ -46,11 +32,6 @@ Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas �
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
  
 </p> <br>
-
-<h3 align="left">Ferramenta para Teste:</h3><br>
-<p align="center">   
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-</p>
 
 <h3 align="left">Sistema Operacional:</h3><br>
 <p align="center">   
@@ -66,10 +47,6 @@ Aqui também estou aos poucos descrevendo sobre minhas habilidades em diversas �
 
 
 <br>
-
-<h2>Hello World!</h2>
-
-Hi, my name is João Maurício! I am part of the JACOMP research project at the Federal Institute of Education, Science and Technology of Bahia, responsible for studying solutions within ubiquitous, pervasive, machine learning, mobile computing in Jacobina - Bahia - Brazil.
 
 Reach out to talk about job opportunities, career advice, web development, mobile development or anything from technology / software.
 
